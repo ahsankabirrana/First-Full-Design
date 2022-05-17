@@ -46,3 +46,15 @@ section{
     height: 80%;
     background-image: url("/images/biography-bg.png");
 }
+#full-stack{
+    border-left: 7px solid;
+    background-color: aqua;
+    color: red;
+}
+#baby-stack{
+    border-left: 7px solid;
+    color: green;
+}
+footer p{
+    text-align: center;
+}
